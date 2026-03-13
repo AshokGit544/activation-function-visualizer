@@ -71,7 +71,3 @@ This project gives:
 
 - Python notebook or script file
 - README file
-
-## Project goal
-
-I made this project as a learning step to understand the basics of deep learning and activation functions in a practical way.
